@@ -21,24 +21,24 @@ var quizQuestions = [
     correctAnswer: "Brendan Eich",
   },
   {
-    question: "?",
-    choices: ["Leonardo da Vinci", "Pablo Picasso", "Vincent van Gogh", "Michelangelo"],
-    correctAnswer: "Leonardo da Vinci",
+    question: "Who is the leader of the Ninja Turtles?",
+    choices: ["Leonardo", "Raphael", "Donatello", "Michelangelo"],
+    correctAnswer: "Leonardo",
   },
     {
-      question: "What is the capital of France?",
-      choices: ["Paris", "London", "Berlin", "Rome"],
-      correctAnswer: "Paris",
+      question: "How many letter are in the alphabet?",
+      choices: ["37", "156", "26", "42"],
+      correctAnswer: "26",
     },
     {
-      question: "What is the capital of France?",
-      choices: ["Paris", "London", "Berlin", "Rome"],
-      correctAnswer: "Paris",
+      question: "The Golden Gate Bridge is located in which country?",
+      choices: ["Japan", "Russia", "Canada", "United States"],
+      correctAnswer: "United States",
     },
     {
-      question: "What is the capital of France?",
-      choices: ["Paris", "London", "Berlin", "Rome"],
-      correctAnswer: "Paris",
+      question: "What is the most common color of toilet paper in France?",
+      choices: ["Grey", "Pink", "White", "Blue"],
+      correctAnswer: "Pink",
     },
 ]
 
